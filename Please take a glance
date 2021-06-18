@@ -1,0 +1,16 @@
+Very Important!
+1. credentials
+    here, I use mine credentials, this may not work for others or others need to login in my account
+    please replace this to yours if error occurs
+2. path
+    here, the storing path is "os.getcwd() + "/Folder/"", where the Folder is generated
+3. rename
+    for downloading and uploading path, please carefully check the comments
+4. rename 2
+    for storing folder, please replace every "/Folder/" to the name you desire
+    or change it into other variables
+5. test
+    I strongly recommend to test the upload and download separately 
+    for uploading, I have created example folders in this zip, it works perfect
+    please create files like that if possible
+
